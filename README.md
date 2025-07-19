@@ -1,8 +1,3 @@
-Here’s the updated **README.md** for your project, personalized with your details:
-
----
-
-````markdown
 # 📦 Inventory Management System
 
 An Inventory Management System built using **Django**, **Django REST Framework**, and **MySQL**. This backend API allows businesses to efficiently manage products, stock levels, suppliers, and purchase orders.
